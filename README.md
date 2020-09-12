@@ -46,10 +46,10 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5428](https://github.com//sqlalchemy/sqlalchemy/issues/5428) in [sqlalchemy/sqlalchemy](https://github.com//sqlalchemy/sqlalchemy)
-2. 🎉 Merged PR [#1](https://github.com//aplatkouski/ap-games/pull/1) in [aplatkouski/ap-games](https://github.com//aplatkouski/ap-games)
-3. ❗️ Opened issue [#44](https://github.com//asottile/setup-cfg-fmt/issues/44) in [asottile/setup-cfg-fmt](https://github.com//asottile/setup-cfg-fmt)
-4. ❌ Closed PR [#11](https://github.com//aplatkouski/numeric-matrix-processor/pull/11) in [aplatkouski/numeric-matrix-processor](https://github.com//aplatkouski/numeric-matrix-processor)
+1. ❗️ Opened issue [#142](https://github.com//rolling-scopes-school/docs/issues/142) in [rolling-scopes-school/docs](https://github.com//rolling-scopes-school/docs)
+2. 🗣 Commented on [#5428](https://github.com//sqlalchemy/sqlalchemy/issues/5428) in [sqlalchemy/sqlalchemy](https://github.com//sqlalchemy/sqlalchemy)
+3. 🎉 Merged PR [#1](https://github.com//aplatkouski/ap-games/pull/1) in [aplatkouski/ap-games](https://github.com//aplatkouski/ap-games)
+4. ❗️ Opened issue [#44](https://github.com//asottile/setup-cfg-fmt/issues/44) in [asottile/setup-cfg-fmt](https://github.com//asottile/setup-cfg-fmt)
 5. ❗️ Opened issue [#5428](https://github.com//sqlalchemy/sqlalchemy/issues/5428) in [sqlalchemy/sqlalchemy](https://github.com//sqlalchemy/sqlalchemy)
 <!--END_SECTION:activity-->
 
