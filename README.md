@@ -46,11 +46,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#142](https://github.com//rolling-scopes-school/docs/issues/142) in [rolling-scopes-school/docs](https://github.com//rolling-scopes-school/docs)
-2. 🗣 Commented on [#5428](https://github.com//sqlalchemy/sqlalchemy/issues/5428) in [sqlalchemy/sqlalchemy](https://github.com//sqlalchemy/sqlalchemy)
-3. 🎉 Merged PR [#1](https://github.com//aplatkouski/ap-games/pull/1) in [aplatkouski/ap-games](https://github.com//aplatkouski/ap-games)
-4. ❗️ Opened issue [#44](https://github.com//asottile/setup-cfg-fmt/issues/44) in [asottile/setup-cfg-fmt](https://github.com//asottile/setup-cfg-fmt)
-5. ❗️ Opened issue [#5428](https://github.com//sqlalchemy/sqlalchemy/issues/5428) in [sqlalchemy/sqlalchemy](https://github.com//sqlalchemy/sqlalchemy)
+1. ❗️ Opened issue [#59](https://github.com//hexlet-basics/exercises-css/issues/59) in [hexlet-basics/exercises-css](https://github.com//hexlet-basics/exercises-css)
+2. ❗️ Opened issue [#142](https://github.com//rolling-scopes-school/docs/issues/142) in [rolling-scopes-school/docs](https://github.com//rolling-scopes-school/docs)
+3. 🗣 Commented on [#5428](https://github.com//sqlalchemy/sqlalchemy/issues/5428) in [sqlalchemy/sqlalchemy](https://github.com//sqlalchemy/sqlalchemy)
+4. 🎉 Merged PR [#1](https://github.com//aplatkouski/ap-games/pull/1) in [aplatkouski/ap-games](https://github.com//aplatkouski/ap-games)
+5. ❗️ Opened issue [#44](https://github.com//asottile/setup-cfg-fmt/issues/44) in [asottile/setup-cfg-fmt](https://github.com//asottile/setup-cfg-fmt)
 <!--END_SECTION:activity-->
 
 </details>
