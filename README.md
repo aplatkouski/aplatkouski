@@ -84,6 +84,10 @@ You can find some details about my learning experiences and projects in
      - [x] [Project: To-Do List](https://github.com/aplatkouski/todo-list)
      - [x] [Project: Smart Calculator](https://github.com/aplatkouski/smart-calculator)
 
+##### [The Rolling Scopes School](https://rollingscopes.com/)
+
+ - [ ] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3) (Sep 2020 - Feb 2021)
+
 #### Libraries and Frameworks
 
   - __SQLAlchemy__: see [Pull requests #5371](https://github.com/sqlalchemy/sqlalchemy/pull/5371) and [Issues #5372
@@ -119,6 +123,7 @@ You can find some details about my learning experiences and projects in
 
   - [ ] [Real Python](https://realpython.com/)
 
+#### To be continued...
 
 [linkedin]: https://www.linkedin.com/in/artsiom-platkouski/
 [facebook]: https://www.facebook.com/aplatkouski
