@@ -80,9 +80,9 @@ You can find some details about my learning experiences and projects in
    Some of the projects are available on github:
 
      - [x] [Project: Tic-Tac-Toe with AI](https://github.com/aplatkouski/ap-games)
-     - [x] [Project: Numeric Matrix Processor](https://github.com/aplatkouski/numeric-matrix-processor)
-     - [x] [Project: To-Do List](https://github.com/aplatkouski/todo-list)
-     - [x] [Project: Smart Calculator](https://github.com/aplatkouski/smart-calculator)
+     - [x] Project: Numeric Matrix Processor
+     - [x] Project: To-Do List
+     - [x] Project: Smart Calculator
 
 ##### [The Rolling Scopes School](https://rollingscopes.com/)
 
