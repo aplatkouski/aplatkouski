@@ -1,6 +1,6 @@
 ### Hi there, I'm Artsiom.
 
-*I’m currently seeking Python Developer position!*
+*I’m looking for a Python Developer position!*
 
 I've been writing in Python for two years.  I’m entirely self-taught by
 means of [online courses](#courses-and-projects) and lectures,
