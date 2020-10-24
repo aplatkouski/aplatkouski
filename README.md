@@ -46,11 +46,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/aplatkouski/rsschool-cv/pull/2) in [aplatkouski/rsschool-cv](https://github.com/aplatkouski/rsschool-cv)
-2. 💪 Opened PR [#1](https://github.com/aplatkouski/rsschool-cv/pull/1) in [aplatkouski/rsschool-cv](https://github.com/aplatkouski/rsschool-cv)
-3. 🗣 Commented on [#145](https://github.com/rolling-scopes-school/docs/issues/145) in [rolling-scopes-school/docs](https://github.com/rolling-scopes-school/docs)
-4. 💪 Opened PR [#145](https://github.com/rolling-scopes-school/docs/pull/145) in [rolling-scopes-school/docs](https://github.com/rolling-scopes-school/docs)
-5. ❗️ Opened issue [#59](https://github.com/hexlet-basics/exercises-css/issues/59) in [hexlet-basics/exercises-css](https://github.com/hexlet-basics/exercises-css)
+1. 💪 Opened PR [#8](https://github.com/rolling-scopes-school/human-readable-number/pull/8) in [rolling-scopes-school/human-readable-number](https://github.com/rolling-scopes-school/human-readable-number)
+2. 💪 Opened PR [#2](https://github.com/aplatkouski/rsschool-cv/pull/2) in [aplatkouski/rsschool-cv](https://github.com/aplatkouski/rsschool-cv)
+3. 💪 Opened PR [#1](https://github.com/aplatkouski/rsschool-cv/pull/1) in [aplatkouski/rsschool-cv](https://github.com/aplatkouski/rsschool-cv)
+4. 🗣 Commented on [#145](https://github.com/rolling-scopes-school/docs/issues/145) in [rolling-scopes-school/docs](https://github.com/rolling-scopes-school/docs)
+5. 💪 Opened PR [#145](https://github.com/rolling-scopes-school/docs/pull/145) in [rolling-scopes-school/docs](https://github.com/rolling-scopes-school/docs)
 <!--END_SECTION:activity-->
 
 </details>
