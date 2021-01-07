@@ -46,11 +46,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kovalenkoiryna15/rsclone/issues/2) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-2. 💪 Opened PR [#2](https://github.com/kovalenkoiryna15/rsclone/pull/2) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-3. ❗️ Opened issue [#1](https://github.com/kovalenkoiryna15/rsclone/issues/1) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-4. 💪 Opened PR [#8](https://github.com/rolling-scopes-school/human-readable-number/pull/8) in [rolling-scopes-school/human-readable-number](https://github.com/rolling-scopes-school/human-readable-number)
-5. 💪 Opened PR [#145](https://github.com/rolling-scopes-school/docs/pull/145) in [rolling-scopes-school/docs](https://github.com/rolling-scopes-school/docs)
+1. ❗️ Closed issue [#10](https://github.com/kovalenkoiryna15/rsclone/issues/10) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+2. 🗣 Commented on [#2](https://github.com/kovalenkoiryna15/rsclone/issues/2) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+3. 💪 Opened PR [#2](https://github.com/kovalenkoiryna15/rsclone/pull/2) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+4. ❗️ Opened issue [#1](https://github.com/kovalenkoiryna15/rsclone/issues/1) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+5. 💪 Opened PR [#8](https://github.com/rolling-scopes-school/human-readable-number/pull/8) in [rolling-scopes-school/human-readable-number](https://github.com/rolling-scopes-school/human-readable-number)
 <!--END_SECTION:activity-->
 
 </details>
