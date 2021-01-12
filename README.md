@@ -46,11 +46,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/kovalenkoiryna15/rsclone/pull/21) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-2. 💪 Opened PR [#21](https://github.com/kovalenkoiryna15/rsclone/pull/21) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-3. 🎉 Merged PR [#2](https://github.com/kovalenkoiryna15/rsclone/pull/2) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-4. ❗️ Closed issue [#1](https://github.com/kovalenkoiryna15/rsclone/issues/1) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-5. 🗣 Commented on [#2](https://github.com/kovalenkoiryna15/rsclone/issues/2) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+1. 🎉 Merged PR [#18](https://github.com/kovalenkoiryna15/rsclone/pull/18) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+2. ❗️ Closed issue [#15](https://github.com/kovalenkoiryna15/rsclone/issues/15) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+3. 🎉 Merged PR [#21](https://github.com/kovalenkoiryna15/rsclone/pull/21) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+4. 💪 Opened PR [#21](https://github.com/kovalenkoiryna15/rsclone/pull/21) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+5. 🎉 Merged PR [#2](https://github.com/kovalenkoiryna15/rsclone/pull/2) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
 <!--END_SECTION:activity-->
 
 </details>
