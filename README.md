@@ -8,9 +8,9 @@ specialized [literature](#books) and
 [official documentation](#tutorials-and-documentations).
 
 I have extensive experience in scripting in terms of data collection,
-monitoring and analysis of the processing system in real time. But now I
-want to make Python the core of my career/job rather than just a smaller
-part of it.
+monitoring and analysis of the processing system in real-time (FinTech).
+But now I want to make Python the core of my career/job rather than just
+a smaller part of it.
 
 You can find some details about my learning experiences and projects in
 [summary](#summary).
@@ -30,6 +30,9 @@ You can find some details about my learning experiences and projects in
 [<img align="left" alt="Python" width="24px" src="https://img.icons8.com/color/48/000000/python.png" />][python]
 [<img align="left" alt="Django" width="24px" src="https://img.icons8.com/color/48/000000/django.png" />][django]
 [<img align="left" alt="PyCharm" width="24px" src="https://img.icons8.com/color/48/000000/pycharm.png" />][pycharm]
+[<img align="left" alt="JavaScript" width="24px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
+[<img align="left" alt="ReactJS" width="24px" src="https://img.icons8.com/color/48/000000/react-native.png" />][reactjs]
+[<img align="left" alt="Webpack" width="24px" src="https://img.icons8.com/dusk/64/000000/webpack.png" />][webpack]
 [<img align="left" alt="Git" width="24px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
 [<img align="left" alt="GitHub" width="24px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
 [<img align="left" alt="Jira" width="24px" src="https://img.icons8.com/color/48/000000/jira.png" />][jira]
@@ -76,7 +79,7 @@ You can find some details about my learning experiences and projects in
 
 ##### [JetBrains Academy](https://hyperskill.org/profile/4724738)
 
- - [ ] [Track: Python Developer](https://hyperskill.org/tracks/2).
+ - [x] [Track: Python Developer](https://hyperskill.org/tracks/2).
    Some of the projects are available on github:
 
      - [x] [Project: Tic-Tac-Toe with AI](https://github.com/aplatkouski/ap-games)
@@ -86,7 +89,8 @@ You can find some details about my learning experiences and projects in
 
 ##### [The Rolling Scopes School](https://rollingscopes.com/)
 
- - [ ] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3) (Sep 2020 - Feb 2021)
+ - [x] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3) (Sep 2020 - Feb 2021)
+ - [ ] [React Course 2021Q1](https://community-z.com/events/react-rsschool-2021) (Feb 2021 - Apr 2021)
 
 #### Libraries and Frameworks
 
@@ -131,6 +135,9 @@ You can find some details about my learning experiences and projects in
 [twitter]: https://twitter.com/APlatkouski
 [python]: https://www.python.org/
 [django]: https://www.djangoproject.com/
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
+[reactjs]: https://reactjs.org/
+[webpack]: https://webpack.js.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
 [git]: https://git-scm.com/
 [github]: https://github.com/
