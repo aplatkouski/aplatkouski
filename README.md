@@ -49,11 +49,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aplatkouski/authorization-app/pull/1) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
-2. 💪 Opened PR [#2](https://github.com/aplatkouski/authorization-app/pull/2) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
-3. 💪 Opened PR [#1](https://github.com/aplatkouski/authorization-app/pull/1) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
-4. 🗣 Commented on [#35](https://github.com/kovalenkoiryna15/rsclone/issues/35) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-5. 💪 Opened PR [#35](https://github.com/kovalenkoiryna15/rsclone/pull/35) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+1. 💪 Opened PR [#3](https://github.com/aplatkouski/authorization-app/pull/3) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
+2. 🎉 Merged PR [#2](https://github.com/aplatkouski/authorization-app/pull/2) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
+3. 🎉 Merged PR [#1](https://github.com/aplatkouski/authorization-app/pull/1) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
+4. 💪 Opened PR [#2](https://github.com/aplatkouski/authorization-app/pull/2) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
+5. 💪 Opened PR [#1](https://github.com/aplatkouski/authorization-app/pull/1) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
 <!--END_SECTION:activity-->
 
 </details>
