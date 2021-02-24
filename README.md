@@ -49,11 +49,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/aplatkouski/authorization-app/pull/5) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
-2. 🎉 Merged PR [#4](https://github.com/aplatkouski/authorization-app/pull/4) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
-3. 💪 Opened PR [#4](https://github.com/aplatkouski/authorization-app/pull/4) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
-4. 💪 Opened PR [#3](https://github.com/aplatkouski/authorization-app/pull/3) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
-5. 🎉 Merged PR [#2](https://github.com/aplatkouski/authorization-app/pull/2) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
+1. 🎉 Merged PR [#35](https://github.com/kovalenkoiryna15/rsclone/pull/35) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+2. 🎉 Merged PR [#36](https://github.com/kovalenkoiryna15/rsclone/pull/36) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+3. 💪 Opened PR [#36](https://github.com/kovalenkoiryna15/rsclone/pull/36) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+4. 💪 Opened PR [#5](https://github.com/aplatkouski/authorization-app/pull/5) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
+5. 🎉 Merged PR [#4](https://github.com/aplatkouski/authorization-app/pull/4) in [aplatkouski/authorization-app](https://github.com/aplatkouski/authorization-app)
 <!--END_SECTION:activity-->
 
 </details>
