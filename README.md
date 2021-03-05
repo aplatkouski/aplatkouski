@@ -49,11 +49,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/aplatkouski/travel-app/issues/1) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-2. 💪 Opened PR [#1](https://github.com/aplatkouski/react-game/pull/1) in [aplatkouski/react-game](https://github.com/aplatkouski/react-game)
-3. 🎉 Merged PR [#35](https://github.com/kovalenkoiryna15/rsclone/pull/35) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-4. 🎉 Merged PR [#36](https://github.com/kovalenkoiryna15/rsclone/pull/36) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
-5. 💪 Opened PR [#36](https://github.com/kovalenkoiryna15/rsclone/pull/36) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+1. 🎉 Merged PR [#1](https://github.com/aplatkouski/travel-app/pull/1) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+2. 🗣 Commented on [#1](https://github.com/aplatkouski/travel-app/issues/1) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+3. 💪 Opened PR [#1](https://github.com/aplatkouski/react-game/pull/1) in [aplatkouski/react-game](https://github.com/aplatkouski/react-game)
+4. 🎉 Merged PR [#35](https://github.com/kovalenkoiryna15/rsclone/pull/35) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
+5. 🎉 Merged PR [#36](https://github.com/kovalenkoiryna15/rsclone/pull/36) in [kovalenkoiryna15/rsclone](https://github.com/kovalenkoiryna15/rsclone)
 <!--END_SECTION:activity-->
 
 </details>
