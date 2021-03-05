@@ -37,6 +37,8 @@ You can find some details about my learning experiences and projects in
 [<img align="left" alt="GitHub" width="24px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
 [<img align="left" alt="Jira" width="24px" src="https://img.icons8.com/color/48/000000/jira.png" />][jira]
 [<img align="left" alt="Sql" width="24px" src="https://img.icons8.com/color/48/000000/sql.png" />][sql]
+[<img align="left" alt="HTML5" width="24px" src="https://img.icons8.com/color/48/000000/html-5.png" />][html5]
+[<img align="left" alt="CSS3" width="24px" src="https://img.icons8.com/color/48/000000/css3.png" />][css3]
 [<img align="left" alt="Docker" width="24px" src="https://img.icons8.com/color/48/000000/docker.png" />][docker]
 [<img align="left" alt="Linux" width="24px" src="https://img.icons8.com/color/48/000000/linux.png" />][linux]
 [<img align="left" alt="Console" width="24px" src="https://img.icons8.com/fluent/48/000000/console.png" />][gnubash]
@@ -143,6 +145,8 @@ You can find some details about my learning experiences and projects in
 [github]: https://github.com/
 [jira]: https://www.atlassian.com/software/jira
 [sql]: https://www.w3schools.com/sql/sql_intro.asp
+[html5]: https://html.spec.whatwg.org/
+[css3]: https://www.w3.org/TR/CSS/#css
 [docker]: https://www.docker.com/
 [linux]: https://www.linuxfoundation.org/
 [gnubash]: https://www.gnu.org/software/bash/
