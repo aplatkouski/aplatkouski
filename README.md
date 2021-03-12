@@ -52,10 +52,10 @@ You can find some details about my learning experiences and projects in
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/aplatkouski/travel-app/issues/7) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-2. 🗣 Commented on [#10](https://github.com/aplatkouski/travel-app/issues/10) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-3. 💪 Opened PR [#10](https://github.com/aplatkouski/travel-app/pull/10) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-4. 🎉 Merged PR [#9](https://github.com/aplatkouski/travel-app/pull/9) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-5. 💪 Opened PR [#9](https://github.com/aplatkouski/travel-app/pull/9) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+2. 🎉 Merged PR [#10](https://github.com/aplatkouski/travel-app/pull/10) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+3. 🗣 Commented on [#7](https://github.com/aplatkouski/travel-app/issues/7) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+4. 🗣 Commented on [#10](https://github.com/aplatkouski/travel-app/issues/10) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+5. 💪 Opened PR [#10](https://github.com/aplatkouski/travel-app/pull/10) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
 <!--END_SECTION:activity-->
 
 </details>
