@@ -51,11 +51,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/aplatkouski/travel-app/pull/22) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-2. 💪 Opened PR [#22](https://github.com/aplatkouski/travel-app/pull/22) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-3. 🎉 Merged PR [#18](https://github.com/aplatkouski/travel-app/pull/18) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-4. 💪 Opened PR [#19](https://github.com/aplatkouski/travel-app/pull/19) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-5. 🎉 Merged PR [#16](https://github.com/aplatkouski/travel-app/pull/16) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+1. 🗣 Commented on [#21](https://github.com/aplatkouski/travel-app/issues/21) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+2. 🎉 Merged PR [#21](https://github.com/aplatkouski/travel-app/pull/21) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+3. 🎉 Merged PR [#22](https://github.com/aplatkouski/travel-app/pull/22) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+4. 💪 Opened PR [#22](https://github.com/aplatkouski/travel-app/pull/22) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+5. 🎉 Merged PR [#18](https://github.com/aplatkouski/travel-app/pull/18) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
 <!--END_SECTION:activity-->
 
 </details>
