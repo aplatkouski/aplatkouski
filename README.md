@@ -51,11 +51,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/rolling-scopes-school/tasks/issues/314) in [rolling-scopes-school/tasks](https://github.com/rolling-scopes-school/tasks)
-2. 🗣 Commented on [#1](https://github.com/olegdrobot/travel-app/issues/1) in [olegdrobot/travel-app](https://github.com/olegdrobot/travel-app)
-3. 💪 Opened PR [#314](https://github.com/rolling-scopes-school/tasks/pull/314) in [rolling-scopes-school/tasks](https://github.com/rolling-scopes-school/tasks)
-4. 🎉 Merged PR [#34](https://github.com/aplatkouski/travel-app/pull/34) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
-5. 🎉 Merged PR [#32](https://github.com/aplatkouski/travel-app/pull/32) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
+1. 💪 Opened PR [#2](https://github.com/aplatkouski/rslang/pull/2) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+2. 🗣 Commented on [#314](https://github.com/rolling-scopes-school/tasks/issues/314) in [rolling-scopes-school/tasks](https://github.com/rolling-scopes-school/tasks)
+3. 🗣 Commented on [#1](https://github.com/olegdrobot/travel-app/issues/1) in [olegdrobot/travel-app](https://github.com/olegdrobot/travel-app)
+4. 💪 Opened PR [#314](https://github.com/rolling-scopes-school/tasks/pull/314) in [rolling-scopes-school/tasks](https://github.com/rolling-scopes-school/tasks)
+5. 🎉 Merged PR [#34](https://github.com/aplatkouski/travel-app/pull/34) in [aplatkouski/travel-app](https://github.com/aplatkouski/travel-app)
 <!--END_SECTION:activity-->
 
 </details>
