@@ -96,15 +96,21 @@ You can find some details about my learning experiences and projects in
 
 #### Libraries and Frameworks
 
-  - __SQLAlchemy__: see [Pull requests #5371](https://github.com/sqlalchemy/sqlalchemy/pull/5371) and [Issues #5372
- ](https://github.com/sqlalchemy/sqlalchemy/issues/5372) for details
-    - [x] [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/index.html)
-  - __pytest__:
-    - [x] [pytest Documentation](https://docs.pytest.org/en/stable/contents.html#toc)
-  - __Django__:
-    - [ ] [Django Documentation](https://docs.djangoproject.com/en/2.2/)
-  - __beautifulsoup4__:
-    - [x] [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- __SQLAlchemy__: see [Pull requests #5371](https://github.com/sqlalchemy/sqlalchemy/pull/5371) and [Issues #5372][sqlalchemy issues 5372] for details
+  - [x] [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/index.html)
+- __pytest__:
+  - [x] [pytest Documentation](https://docs.pytest.org/en/stable/contents.html#toc)
+- __Django__:
+  - [ ] [Django Documentation](https://docs.djangoproject.com/en/2.2/)
+- __beautifulsoup4__:
+  - [x] [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- __React__ [Docs][react docs]:
+  - [x] Installation;
+  - [x] Main Concepts;
+  - [x] Advanced Guides;
+  - [x] API Reference;
+  - [x] Hooks;
+  - [x] Testing.
 
 #### Books
 
@@ -159,3 +165,5 @@ You can find some details about my learning experiences and projects in
 [become a git guru]: https://www.atlassian.com/git/tutorials
 [pycharm 2019.2 guide]: https://www.jetbrains.com/help/pycharm/2019.2/quick-start-guide.html
 [smartgit 19.1 manual]: https://www.syntevo.com/doc/display/SG191/Manual
+[sqlalchemy issues 5372]: https://github.com/sqlalchemy/sqlalchemy/issues/5372
+[react docs]: https://reactjs.org/docs/getting-started.html
