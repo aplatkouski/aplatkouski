@@ -51,11 +51,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/aplatkouski/rslang/pull/19) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-2. 💪 Opened PR [#19](https://github.com/aplatkouski/rslang/pull/19) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-3. 🗣 Commented on [#16](https://github.com/aplatkouski/rslang/issues/16) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+1. 🎉 Merged PR [#1](https://github.com/natallia-js/react-rslang-be/pull/1) in [natallia-js/react-rslang-be](https://github.com/natallia-js/react-rslang-be)
+2. 🎉 Merged PR [#19](https://github.com/aplatkouski/rslang/pull/19) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+3. 💪 Opened PR [#19](https://github.com/aplatkouski/rslang/pull/19) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
 4. 🗣 Commented on [#16](https://github.com/aplatkouski/rslang/issues/16) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-5. 🎉 Merged PR [#18](https://github.com/aplatkouski/rslang/pull/18) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+5. 🗣 Commented on [#16](https://github.com/aplatkouski/rslang/issues/16) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
 <!--END_SECTION:activity-->
 
 </details>
