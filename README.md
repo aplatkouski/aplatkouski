@@ -51,11 +51,11 @@ You can find some details about my learning experiences and projects in
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/aplatkouski/rslang/pull/40) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-2. 💪 Opened PR [#39](https://github.com/aplatkouski/rslang/pull/39) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-3. 🎉 Merged PR [#37](https://github.com/aplatkouski/rslang/pull/37) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-4. 💪 Opened PR [#37](https://github.com/aplatkouski/rslang/pull/37) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-5. 🎉 Merged PR [#34](https://github.com/aplatkouski/rslang/pull/34) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+1. 🎉 Merged PR [#39](https://github.com/aplatkouski/rslang/pull/39) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+2. 💪 Opened PR [#40](https://github.com/aplatkouski/rslang/pull/40) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+3. 💪 Opened PR [#39](https://github.com/aplatkouski/rslang/pull/39) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+4. 🎉 Merged PR [#37](https://github.com/aplatkouski/rslang/pull/37) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+5. 💪 Opened PR [#37](https://github.com/aplatkouski/rslang/pull/37) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
 <!--END_SECTION:activity-->
 
 </details>
