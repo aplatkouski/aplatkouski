@@ -32,6 +32,7 @@ You can find some details about my learning experiences and projects in
 [<img align="left" alt="PyCharm" width="24px" src="https://img.icons8.com/color/48/000000/pycharm.png" />][pycharm]
 [<img align="left" alt="JavaScript" width="24px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
 [<img align="left" alt="ReactJS" width="24px" src="https://img.icons8.com/color/48/000000/react-native.png" />][reactjs]
+[<img align="left" alt="Redux" width="24px" src="https://img.icons8.com/color/48/000000/redux.png" />][redux]
 [<img align="left" alt="Webpack" width="24px" src="https://img.icons8.com/dusk/64/000000/webpack.png" />][webpack]
 [<img align="left" alt="Git" width="24px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
 [<img align="left" alt="GitHub" width="24px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
@@ -91,8 +92,8 @@ You can find some details about my learning experiences and projects in
 
 ##### [The Rolling Scopes School](https://rollingscopes.com/)
 
- - [x] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3) (Sep 2020 - Feb 2021)
- - [ ] [React Course 2021Q1](https://community-z.com/events/react-rsschool-2021) (Feb 2021 - Apr 2021)
+ - [x] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3), [Certificate][certificate js 2020q3] (Sep 2020 - Feb 2021)
+ - [x] [React Course 2021Q1](https://community-z.com/events/react-rsschool-2021) (Feb 2021 - Apr 2021)
 
 #### Libraries and Frameworks
 
@@ -111,6 +112,11 @@ You can find some details about my learning experiences and projects in
   - [x] API Reference;
   - [x] Hooks;
   - [x] Testing.
+- __Redux__ [Tutorial][redux tutorial]:
+  - [x] Getting Started;
+  - [x] Tutorial;
+  - [x] API;
+  - [x] Best Practices.
 
 #### Books
 
@@ -145,6 +151,7 @@ You can find some details about my learning experiences and projects in
 [django]: https://www.djangoproject.com/
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [reactjs]: https://reactjs.org/
+[redux]: https://redux.js.org/
 [webpack]: https://webpack.js.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
 [git]: https://git-scm.com/
@@ -167,3 +174,5 @@ You can find some details about my learning experiences and projects in
 [smartgit 19.1 manual]: https://www.syntevo.com/doc/display/SG191/Manual
 [sqlalchemy issues 5372]: https://github.com/sqlalchemy/sqlalchemy/issues/5372
 [react docs]: https://reactjs.org/docs/getting-started.html
+[redux tutorial]: https://redux.js.org/introduction/getting-started
+[certificate js 2020q3]: https://app.rs.school/certificate/q3tcl98f
