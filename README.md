@@ -17,6 +17,8 @@
 [<img align="left" alt="JavaScript" width="24px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
 [<img align="left" alt="ReactJS" width="24px" src="https://img.icons8.com/color/48/000000/react-native.png" />][reactjs]
 [<img align="left" alt="Redux" width="24px" src="https://img.icons8.com/color/48/000000/redux.png" />][redux]
+[<img align="left" alt="Bootstrap" width="24px" src="https://img.icons8.com/color/344/bootstrap.png" />][bootstrap]
+[<img align="left" alt="Material-ui" width="24px" src="https://img.icons8.com/color/344/material-ui.png" />][material-ui]
 [<img align="left" alt="Webpack" width="24px" src="https://img.icons8.com/dusk/64/000000/webpack.png" />][webpack]
 [<img align="left" alt="Git" width="24px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
 [<img align="left" alt="GitHub" width="24px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
@@ -136,6 +138,8 @@
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [reactjs]: https://reactjs.org/
 [redux]: https://redux.js.org/
+[material-ui]: https://material-ui.com/
+[bootstrap]: https://getbootstrap.com/
 [webpack]: https://webpack.js.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
 [git]: https://git-scm.com/
