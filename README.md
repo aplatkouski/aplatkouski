@@ -62,6 +62,11 @@
  - [x] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) offered By Atlassian
  - [x] [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) offered by Google
 
+##### [The Rolling Scopes School](https://rollingscopes.com/)
+
+ - [x] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3), [Certificate][certificate js 2020q3] (Sep 2020 - Feb 2021)
+ - [x] [React Course 2021Q1](https://community-z.com/events/react-rsschool-2021), [Certificate][certificate react 2021q1] (Feb 2021 - May 2021)
+
 ##### [Cisco Networking Academy][netacad]
 
  - [x] [PCAP: Programming Essentials In Python English 0820][pcap]
@@ -76,21 +81,8 @@
      - [x] Project: To-Do List
      - [x] Project: Smart Calculator
 
-##### [The Rolling Scopes School](https://rollingscopes.com/)
-
- - [x] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3), [Certificate][certificate js 2020q3] (Sep 2020 - Feb 2021)
- - [x] [React Course 2021Q1](https://community-z.com/events/react-rsschool-2021), [Certificate][certificate react 2021q1] (Feb 2021 - May 2021)
-
 #### Libraries and Frameworks
 
-- __SQLAlchemy__: see [Pull requests #5371](https://github.com/sqlalchemy/sqlalchemy/pull/5371) and [Issues #5372][sqlalchemy issues 5372] for details
-  - [x] [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/index.html)
-- __pytest__:
-  - [x] [pytest Documentation](https://docs.pytest.org/en/stable/contents.html#toc)
-- __Django__:
-  - [ ] [Django Documentation](https://docs.djangoproject.com/en/2.2/)
-- __beautifulsoup4__:
-  - [x] [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - __React__ [Docs][react docs]:
   - [x] Installation;
   - [x] Main Concepts;
@@ -103,6 +95,14 @@
   - [x] Tutorial;
   - [x] API;
   - [x] Best Practices.
+- __SQLAlchemy__: see [Pull requests #5371](https://github.com/sqlalchemy/sqlalchemy/pull/5371) and [Issues #5372][sqlalchemy issues 5372] for details
+  - [x] [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/index.html)
+- __pytest__:
+  - [x] [pytest Documentation](https://docs.pytest.org/en/stable/contents.html#toc)
+- __Django__:
+  - [ ] [Django Documentation](https://docs.djangoproject.com/en/2.2/)
+- __beautifulsoup4__:
+  - [x] [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 #### Books
 
@@ -112,6 +112,8 @@
       by Matt Weisfeld (in russian)
   - [x] [How to Think Like a Computer Scientist: Learning with Python][think like cs]
       by Allen B. Downey
+  - [x] [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement][7 db in 7 weeks]
+      by Luc Perkins, Eric Redmond, Jim Wilson
   - [ ] [Learning Python][learning python] by Mark Lutz
 
 #### Tutorials and Documentations
@@ -155,6 +157,7 @@
 [pcap]: https://www.netacad.com/courses/programming/pcap-programming-essentials-python
 [python pocket reference 5th]: https://www.oreilly.com/library/view/python-pocket-reference/9781449357009/
 [think like cs]: https://www.amazon.com/How-Think-Like-Computer-Scientist/dp/0971677506
+[7 db in 7 weeks]: https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/
 [ootp 4th]: https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272
 [learning python]: https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730
 [become a git guru]: https://www.atlassian.com/git/tutorials
