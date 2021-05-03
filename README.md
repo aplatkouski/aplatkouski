@@ -1,21 +1,5 @@
 ### Hi there, I'm Artsiom.
 
-*I’m looking for a Python Developer position!*
-
-I've been writing in Python for two years.  I’m entirely self-taught by
-means of [online courses](#courses-and-projects) and lectures,
-specialized [literature](#books) and
-[official documentation](#tutorials-and-documentations).
-
-I have extensive experience in scripting in terms of data collection,
-monitoring and analysis of the processing system in real-time (FinTech).
-But now I want to make Python the core of my career/job rather than just
-a smaller part of it.
-
-You can find some details about my learning experiences and projects in
-[summary](#summary).
-
-
 ### Connect with me:
 
 [<img align="left" alt="artsiom-platkouski | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -93,7 +77,7 @@ You can find some details about my learning experiences and projects in
 ##### [The Rolling Scopes School](https://rollingscopes.com/)
 
  - [x] [JavaScript/Front-end 2020Q3](https://community-z.com/events/js-intro-rss2020q3), [Certificate][certificate js 2020q3] (Sep 2020 - Feb 2021)
- - [x] [React Course 2021Q1](https://community-z.com/events/react-rsschool-2021) (Feb 2021 - Apr 2021)
+ - [x] [React Course 2021Q1](https://community-z.com/events/react-rsschool-2021), [Certificate][certificate react 2021q1] (Feb 2021 - May 2021)
 
 #### Libraries and Frameworks
 
@@ -176,3 +160,4 @@ You can find some details about my learning experiences and projects in
 [react docs]: https://reactjs.org/docs/getting-started.html
 [redux tutorial]: https://redux.js.org/introduction/getting-started
 [certificate js 2020q3]: https://app.rs.school/certificate/q3tcl98f
+[certificate react 2021q1]: https://app.rs.school/certificate/c7hoabwu
