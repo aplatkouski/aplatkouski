@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Bulachka/sacral-objects/issues/4) in [Bulachka/sacral-objects](https://github.com/Bulachka/sacral-objects)
-2. 🗣 Commented on [#26](https://github.com/svdfsdev/rslang/issues/26) in [svdfsdev/rslang](https://github.com/svdfsdev/rslang)
-3. 🗣 Commented on [#42](https://github.com/GrnTea/rslang/issues/42) in [GrnTea/rslang](https://github.com/GrnTea/rslang)
-4. 🎉 Merged PR [#39](https://github.com/aplatkouski/rslang/pull/39) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-5. 💪 Opened PR [#40](https://github.com/aplatkouski/rslang/pull/40) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+1. ❌ Closed PR [#14](https://github.com/aplatkouski/rslang/pull/14) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+2. 🗣 Commented on [#14](https://github.com/aplatkouski/rslang/issues/14) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+3. 🗣 Commented on [#41](https://github.com/aplatkouski/rslang/issues/41) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+4. ❌ Closed PR [#41](https://github.com/aplatkouski/rslang/pull/41) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+5. ❗️ Opened issue [#4](https://github.com/Bulachka/sacral-objects/issues/4) in [Bulachka/sacral-objects](https://github.com/Bulachka/sacral-objects)
 <!--END_SECTION:activity-->
 
 </details>
