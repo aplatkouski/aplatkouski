@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/aplatkouski/rslang/pull/14) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-2. 🗣 Commented on [#14](https://github.com/aplatkouski/rslang/issues/14) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-3. 🗣 Commented on [#41](https://github.com/aplatkouski/rslang/issues/41) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-4. ❌ Closed PR [#41](https://github.com/aplatkouski/rslang/pull/41) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
-5. ❗️ Opened issue [#4](https://github.com/Bulachka/sacral-objects/issues/4) in [Bulachka/sacral-objects](https://github.com/Bulachka/sacral-objects)
+1. 💪 Opened PR [#18](https://github.com/introduction-to-python-2021-1/PythonFinalTask/pull/18) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
+2. ❌ Closed PR [#14](https://github.com/aplatkouski/rslang/pull/14) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+3. 🗣 Commented on [#14](https://github.com/aplatkouski/rslang/issues/14) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+4. 🗣 Commented on [#41](https://github.com/aplatkouski/rslang/issues/41) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
+5. ❌ Closed PR [#41](https://github.com/aplatkouski/rslang/pull/41) in [aplatkouski/rslang](https://github.com/aplatkouski/rslang)
 <!--END_SECTION:activity-->
 
 </details>
