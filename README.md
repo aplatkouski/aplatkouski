@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Recent Github Stats</summary>
   
-<img alt="aplatkouski's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aplatkouski&show_icons=true&hide_border=true" />
+<img alt="aplatkouski's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aplatkouski&show_icons=true&hide_border=true" />
 </details>
 
 ### Summary
