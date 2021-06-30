@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/pull/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
-2. ❌ Closed PR [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/pull/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
-3. 🗣 Commented on [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/issues/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
-4. 💪 Opened PR [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/pull/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
-5. 💪 Opened PR [#3](https://github.com/aplatkouski/ap-rss-reader/pull/3) in [aplatkouski/ap-rss-reader](https://github.com/aplatkouski/ap-rss-reader)
+1. 🎉 Merged PR [#3](https://github.com/aplatkouski/ap-rss-reader/pull/3) in [aplatkouski/ap-rss-reader](https://github.com/aplatkouski/ap-rss-reader)
+2. ❌ Reopened PR [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/pull/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
+3. ❌ Closed PR [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/pull/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
+4. 🗣 Commented on [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/issues/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
+5. 💪 Opened PR [#21](https://github.com/introduction-to-python-2021-1/PythonFinalTask/pull/21) in [introduction-to-python-2021-1/PythonFinalTask](https://github.com/introduction-to-python-2021-1/PythonFinalTask)
 <!--END_SECTION:activity-->
 
 </details>
